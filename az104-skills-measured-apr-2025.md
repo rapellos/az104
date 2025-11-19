@@ -1,6 +1,10 @@
 # Exam AZ-104: Microsoft Azure Administrator
 
+**Last Updated: April 18, 2025**
+
 ## Skills Measured
+
+> **Note:** The exam was updated on April 18, 2025. Key changes include the addition of soft delete configuration for blobs and containers in the storage section.
 
 ### Manage Azure Identities and Governance (20–25%)
 
@@ -46,6 +50,7 @@
   - Create and configure a container in Blob Storage
   - Configure storage tiers
   - Configure snapshots and soft delete for Azure Files
+  - Configure soft delete for blobs and containers
   - Configure blob lifecycle management
   - Configure blob versioning
 
