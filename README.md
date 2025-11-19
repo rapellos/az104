@@ -4,6 +4,23 @@
 
 Welcome to the ultimate resource hub for preparing for the **AZ-104 Microsoft Azure Administrator Exam**. Whether you're aiming for certification or deepening your Azure knowledge, this guide is packed with the best tools, links, and tips to set you up for success.
 
+## 🆕 **What's New in 2025**
+
+This repository has been completely updated with the latest AZ-104 exam content (April 2025 update):
+
+✅ **Updated Skills Measured** - Reflects April 18, 2025 exam changes (including new soft delete for containers requirement)
+✅ **Comprehensive Hands-On Labs** - Step-by-step labs for all exam domains with PowerShell, CLI, and Bicep
+✅ **Scenario-Based Practice Questions** - Real-world scenarios that mirror exam questions
+✅ **Quick Reference Cheat Sheet** - One-page guide with all essential commands and concepts
+✅ **Troubleshooting Guide** - Common issues and solutions you'll encounter as an Azure Admin
+✅ **2025 Best Practices** - Current architectural patterns and security recommendations
+
+**Exam Update Highlights (April 2025):**
+- Added: Configure soft delete for blobs and containers
+- Enhanced focus on Azure Monitor and KQL queries
+- Increased emphasis on Bicep over ARM templates
+- Updated networking scenarios with modern patterns
+
 ---
 
 ## 📬 **Contact Information**
@@ -17,13 +34,28 @@ Welcome to the ultimate resource hub for preparing for the **AZ-104 Microsoft Az
 ---
 
 ## 🚀 **The Good Stuff: Must-Have AZ-104 Resources**
+
+### Official Microsoft Resources
 - [AZ-104 Exam Page](https://learn.microsoft.com/en-us/certifications/exams/az-104)
-- [AZ-104 Skills Measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104)
+- [AZ-104 Skills Measured (Updated April 2025)](az104-skills-measured-apr-2025.md) ⭐ **NEW**
 - [Exam Registration (Microsoft/Pearson VUE)](https://learn.microsoft.com/en-us/credentials/certifications/schedule-through-pearson-vue?examUid=exam.AZ-104&examUrl=https%3A%2F%2Flearn.microsoft.com%2Fcredentials%2Fcertifications)
-- [MeasureUp AZ-104 Practice Exams](https://www.measureup.com/microsoft-practice-test-az-104-microsoft-azure-administrator.html)
 - [Microsoft Learn AZ-104 Learning Path](https://learn.microsoft.com/en-us/training/courses/az-104t00/)
 - [Azure Free Account Signup](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account)
+
+### Practice & Labs
+- [MeasureUp AZ-104 Practice Exams](https://www.measureup.com/microsoft-practice-test-az-104-microsoft-azure-administrator.html)
 - [Pearson CertPREP AZ-104 Training Labs](https://govstore.pearsonvue.com/certprep-microsoft-exam-az-104/p/CLC-AZ104-PVUE)
+- **[📚 Hands-On Labs (2025 Edition)](labs/)** ⭐ **NEW**
+- **[🎯 Practice Questions](practice-questions/az104-practice-questions.md)**
+- **[🔥 Scenario-Based Questions](practice-questions/az104-scenario-questions.md)** ⭐ **NEW**
+
+### Quick References
+- **[⚡ AZ-104 Quick Reference Cheat Sheet](quick-reference/az104-cheat-sheet.md)** ⭐ **NEW**
+- **[🔧 Troubleshooting Common Scenarios](troubleshooting/common-scenarios.md)** ⭐ **NEW**
+
+### Study Planning
+- **[📅 Customized Study Plans (4, 8, or 12 weeks)](STUDY-PLAN.md)** ⭐ **NEW**
+- [5-Hour Course Plan](az104-course-plan-jan-2025.md)
 
 ---
 
